@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/megazord-generator/precache-manifest.e17d4d1d4e5ef8dedc878d9ead27f37a.js"
+  "/megazord-generator/precache-manifest.69b039ea4c9f95e80047282e51468d1d.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/megazord-generator/static/css/main.bf114f38.chunk.css",
-    "main.js": "/megazord-generator/static/js/main.1c103cf3.chunk.js",
-    "main.js.map": "/megazord-generator/static/js/main.1c103cf3.chunk.js.map",
+    "main.js": "/megazord-generator/static/js/main.013aff4b.chunk.js",
+    "main.js.map": "/megazord-generator/static/js/main.013aff4b.chunk.js.map",
     "runtime~main.js": "/megazord-generator/static/js/runtime~main.9d4bd0fa.js",
     "runtime~main.js.map": "/megazord-generator/static/js/runtime~main.9d4bd0fa.js.map",
     "static/js/2.4e81ba5b.chunk.js": "/megazord-generator/static/js/2.4e81ba5b.chunk.js",
     "static/js/2.4e81ba5b.chunk.js.map": "/megazord-generator/static/js/2.4e81ba5b.chunk.js.map",
     "index.html": "/megazord-generator/index.html",
-    "precache-manifest.e17d4d1d4e5ef8dedc878d9ead27f37a.js": "/megazord-generator/precache-manifest.e17d4d1d4e5ef8dedc878d9ead27f37a.js",
+    "precache-manifest.69b039ea4c9f95e80047282e51468d1d.js": "/megazord-generator/precache-manifest.69b039ea4c9f95e80047282e51468d1d.js",
     "service-worker.js": "/megazord-generator/service-worker.js",
     "static/css/main.bf114f38.chunk.css.map": "/megazord-generator/static/css/main.bf114f38.chunk.css.map"
   }
