@@ -1,0 +1,24 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.app__inputs {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.app__inputs > input:not(:last-child) {
+  margin-right: 10px;
+}
+
+.app__list {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.app__list > div:not(:last-child) {
+  margin-right: 10px;
+}
